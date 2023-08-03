@@ -1,0 +1,13 @@
+{
+  "version": "v1.5",
+  "messages": [
+    "new_message_annoucement": [
+      "message": "These messages are cool, isn't it?",
+      "button_string": "Dismiss"
+    ],
+    "v1.5": [
+      "message": "This plugin has been reworked. You can now see these messages.",
+      "button_string": "Dismiss"
+    ]
+  ]
+}
