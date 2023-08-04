@@ -6,7 +6,7 @@
       "description": "This plugin has been reworked. I use github to send messages and change version of the plugin.",
       "buttons" = [
         [text = "Dismiss"]
-      ],
+      ]
     ],
 
     "new_message_annoucement": [
@@ -14,7 +14,7 @@
       "description": "These messages are cool, isn't it?",
       "buttons" = [
         [text = "Dismiss"]
-      ],
+      ]
     ]
   ]
 }
