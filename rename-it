@@ -2,7 +2,7 @@
   "version": "v1.5",
   "messages": [
     "v1.5": [
-      "message": "This plugin has been reworked. I use github to send messages and make updates",
+      "message": "This plugin has been reworked. I use github to send messages and change version of the plugin.",
       "button_string": "Dismiss",
       "players": []
     ],
