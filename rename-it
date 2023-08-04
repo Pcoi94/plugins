@@ -4,16 +4,16 @@
     "v1.5": [
       "title": "Successfully updated!",
       "description": "This plugin has been reworked. I use github to send messages and change version of the plugin.",
-      "buttons" = [
-        [text = "Dismiss"]
+      "buttons": [
+        ["text": "Dismiss"]
       ]
     ],
 
     "new_message_annoucement": [
       "title": "Hi",
       "description": "These messages are cool, isn't it?",
-      "buttons" = [
-        [text = "Dismiss"]
+      "buttons": [
+        ["text": "Dismiss"]
       ]
     ]
   ]
