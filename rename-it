@@ -20,7 +20,7 @@
       "description": "BEKE BEKE BEKE BEKE BEKE",
       "buttons": [
         {"text": "cler"},
-        {"text", "clear"}
+        {"text": "clear"}
       ]
     }
   }
