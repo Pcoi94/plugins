@@ -7,8 +7,6 @@
       "buttons" = [
         [text = "Dismiss"]
       ],
-
-      "players": []
     ],
 
     "new_message_annoucement": [
@@ -17,8 +15,6 @@
       "buttons" = [
         [text = "Dismiss"]
       ],
-
-      "players": []
     ]
   ]
 }
