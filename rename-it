@@ -14,14 +14,6 @@
       "buttons": [
         {"text": "Dismiss"}
       ]
-    },
-    "natzu_is_beke": {
-      "title": "yo natzu",
-      "description": "BEKE BEKE BEKE BEKE BEKE",
-      "buttons": [
-        {"text": "cler"},
-        {"text": "clear"}
-      ]
     }
   }
 }
