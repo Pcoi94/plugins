@@ -2,8 +2,8 @@
   "version": "v1.5",
   "messages": [
     "v1.5": [
-      "message": "This plugin has been reworked. I use github to send messages and change version of the plugin.",
-      "button_string": "Dismiss",
+      "title": "Successfully updated!",
+      "description": "This plugin has been reworked. I use github to send messages and change version of the plugin.",
       "buttons" = [
         [text = "Dismiss"]
       ],
@@ -12,8 +12,8 @@
     ],
 
     "new_message_annoucement": [
-      "message": "These messages are cool, isn't it?",
-      "button_string": "Dismiss",
+      "title": "Hi",
+      "description": "These messages are cool, isn't it?",
       "buttons" = [
         [text = "Dismiss"]
       ],
