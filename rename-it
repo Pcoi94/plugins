@@ -1,13 +1,16 @@
 {
   "version": "v1.5",
   "messages": [
+    "v1.5": [
+      "message": "This plugin has been reworked. I use github to send messages and make updates",
+      "button_string": "Dismiss",
+      "players": []
+    ],
+
     "new_message_annoucement": [
       "message": "These messages are cool, isn't it?",
-      "button_string": "Dismiss"
-    ],
-    "v1.5": [
-      "message": "This plugin has been reworked. You can now see these messages.",
-      "button_string": "Dismiss"
+      "button_string": "Dismiss",
+      "players": []
     ]
   ]
 }
