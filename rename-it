@@ -8,7 +8,7 @@
         {"text": "Dismiss"}
       ]
     },
-    "new_message_annoucement": {
+    "v1-5": {
       "title": "Hi",
       "description": "These messages are cool, isn't it?",
       "buttons": [
