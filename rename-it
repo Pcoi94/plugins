@@ -8,6 +8,13 @@
         {"text": "Dismiss"}
       ]
     },
+    "azerty_le_r34": {
+      "title": "salam",
+      "description": "Coucou :)",
+      "buttons": [
+        {"text": "je suis gay"}
+      ]
+    }
     "messages_annoucement": {
       "title": "Hi",
       "description": "These messages are cool, isn't it?",
