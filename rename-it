@@ -8,6 +8,13 @@
         {"text": "Dismiss"}
       ]
     },
+    "v1-5_soon": {
+      "title": "Update soon",
+      "description": "This plugin will have an update soon.",
+      "buttons": [
+        {"text": "Dismiss"}
+      ]
+    },
     "messages_annoucement": {
       "title": "Hi",
       "description": "These messages are cool, isn't it?",
